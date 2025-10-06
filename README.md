@@ -50,7 +50,8 @@ Specialization: *Software Engineering*
 > Internal tool for insurance companies to improve customer connections.  
 **Tasks:**  
 - Refactor code, add new features, fix bugs.  
-**Stack:** React Native, Java Spring, Kafka, MongoDB, Azure    
+**Stack:**  
+- React Native, Java Spring, Kafka, MongoDB, Azure    
 
 ---
 
