@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trần Đức Hùng  
 
-**💼 Node.js / React Native Developer**  
+**💼 React Native Developer**  
 📍 Viet Nam  
 📧 [trd.hung1996@gmail.com](mailto:trd.hung1996@gmail.com)  
 📞 0888 288 986  
