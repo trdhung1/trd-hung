@@ -48,14 +48,16 @@ Specialization: *Software Engineering*
 **📆 05/2023 – 03/2024 | Developer (React Native)**  
 **Project:** FWD Cube  
 > Internal tool for insurance companies to improve customer connections.  
-**Tasks:** Refactor code, add new features, fix bugs.  
+**Tasks:**  
+- Refactor code, add new features, fix bugs.  
 **Stack:** React Native, Java Spring, Kafka, MongoDB, Azure    
 
 ---
 
 **📆 01/2022 – 05/2023 | Developer (Flutter, NextJS)**  
 **Project:** Restaurant Management & Booking System (OrderBuddy)  
-**Tasks:** Develop new features, refactor, and fix UI bugs.  
+**Tasks:**  
+- Develop new features, refactor, and fix UI bugs.  
 
 ---
 
