@@ -110,7 +110,7 @@ Specialization: *Software Engineering*
 ---
 
 ## 💬 Languages  
-- **English:** Intermediate  
+- **English:** Basic  
 - **Vietnamese:** Native  
 
 ---
