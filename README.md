@@ -67,12 +67,14 @@ Specialization: *Software Engineering*
 ### 🏢 **NCCSoft**
 **📆 05/2021 – 12/2021 | Node.js Backend Developer**  
 **Project:** Trulet  
-> A real estate platform for buying, selling, and renting properties.  
+> A real estate platform for buying, selling, and renting properties.
+
 **Stack:** Node.js, Docker, PostgreSQL, AWS, WebSocket, Firebase  
 
 **📆 03/2021 – 05/2021 | Fullstack (Node.js & ReactJS)**  
 **Project:** Eventx  
-> Event ticket sales and management system.  
+> Event ticket sales and management system.
+
 **Stack:** ReactJS, Redux Toolkit, Node.js, Docker, PostgreSQL  
 
 **📆 11/2020 – 03/2021 | Frontend (ReactJS)**  
@@ -96,7 +98,8 @@ Specialization: *Software Engineering*
 ### 🏢 **ICHECK Company**
 **📆 03/2019 – 08/2019 | Node.js Backend Developer**  
 **Project:** iCheck Product Authentication  
-> Scanning QR codes to verify product origin and avoid counterfeits.  
+> Scanning QR codes to verify product origin and avoid counterfeits.
+
 **Stack:** Node.js, ExpressJS, PostgreSQL, Docker, Redis, Jest, Mocha  
 
 ---
