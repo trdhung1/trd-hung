@@ -10,7 +10,7 @@
 
 ## 🧠 About Me  
 I'm an easy-going, honest, and hardworking developer who loves learning new technologies.  
-My main focus is **Node.js** and **React Native**, but I’m also comfortable working across full-stack environments.
+My main focus is **Node.js**, **ReactJS** and **React Native**, but I’m also comfortable working across full-stack environments.
 
 ---
 
@@ -54,7 +54,7 @@ Specialization: *Software Engineering*
 ---
 
 **📆 01/2022 – 05/2023 | Developer (Flutter, NextJS)**  
-**Project:** Restaurant Management & Booking System  
+**Project:** Restaurant Management & Booking System (OrderBuddy)  
 **Tasks:** Develop new features, refactor, and fix UI bugs.  
 
 ---
