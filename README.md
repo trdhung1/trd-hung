@@ -38,11 +38,15 @@ Specialization: *Software Engineering*
 **Project:** HIGHER  
 > A global fandom social platform for K-POP fans to vote, share videos, and interact globally.
 
-**Tasks:**  
-- Refactor and update features  
-- Fix bugs and review code  
-- Deploy apps to iOS and Android stores  
+**Stack:** React Native, ReactJS, Firebase  
 **Team size:** 6  
+
+**Responsibilities:**  
+- Refactor and optimize existing codebase  
+- Implement new features and fix bugs  
+- Support app and frontend code review for team members  
+- **Integrate SDKs:** ads SDKs, Firebase notification, and in-app purchases (IAP)  
+- Deploy mobile applications to both iOS and Android stores   
 
 ---
 
