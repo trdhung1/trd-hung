@@ -47,9 +47,9 @@ Specialization: *Software Engineering*
 
 **📆 05/2023 – 03/2024 | Developer (React Native)**  
 **Project:** FWD Cube  
-> Internal tool for insurance companies to improve customer connections.  
-**Stack:** React Native, Java Spring, Kafka, MongoDB, Azure  
-**Tasks:** Refactor code, add new features, fix bugs.  
+> Internal tool for insurance companies to improve customer connections.
+**Tasks:** Refactor code, add new features, fix bugs.
+**Stack:** React Native, Java Spring, Kafka, MongoDB, Azure    
 
 ---
 
