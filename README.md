@@ -36,7 +36,8 @@ Specialization: *Software Engineering*
 ### 🏢 **VATEK Company**
 **📆 11/2024 – 11/2025 | Developer (React Native, ReactJS)**  
 **Project:** HIGHER  
-> A global fandom social platform for K-POP fans to vote, share videos, and interact globally.  
+> A global fandom social platform for K-POP fans to vote, share videos, and interact globally.
+
 **Tasks:**  
 - Refactor and update features  
 - Fix bugs and review code  
@@ -47,7 +48,8 @@ Specialization: *Software Engineering*
 
 **📆 05/2023 – 03/2024 | Developer (React Native)**  
 **Project:** FWD Cube  
-> Internal tool for insurance companies to improve customer connections.  
+> Internal tool for insurance companies to improve customer connections.
+
 **Tasks:**  
 - Refactor code, add new features, fix bugs.  
 **Stack:**  
